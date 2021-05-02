@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1605460794 source:d:\mis documentos\programación\tecnicatura universitaria en programación - utn pacheco\laboratorio de computación 1\trabajos prácticos\bunco\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funcionesGenerales.h"
+	"funcionesEspecificas.h"
+	"rlutil.h"
+
+1605292437 d:\mis documentos\programación\tecnicatura universitaria en programación - utn pacheco\laboratorio de computación 1\trabajos prácticos\bunco\funcionesgenerales.h
+
+1605478567 d:\mis documentos\programación\tecnicatura universitaria en programación - utn pacheco\laboratorio de computación 1\trabajos prácticos\bunco\funcionesespecificas.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rlutil.h"
+	<dos.h>
+
+1603715401 d:\mis documentos\programación\tecnicatura universitaria en programación - utn pacheco\laboratorio de computación 1\trabajos prácticos\bunco\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
